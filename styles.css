@@ -1,0 +1,19 @@
+.beagle{
+    text-decoration: solid;
+}
+
+.underline{
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+.font{
+    font-family: sans-serif;
+}
+
+.style1{
+    border-style: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
